@@ -5,7 +5,7 @@ export default {
     theme: {
         extend: {
             colors: {
-                // 定义袈蓝品牌色，基于#10376F
+                // 定义袈蓝品牌色，基于#10376F，by jamflying
                 synarchi: {
                     50: '#edf9ff',
                     100: '#d6f0ff',
