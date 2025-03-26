@@ -1,0 +1,128 @@
+---
+aliases: []
+author:
+    - 袈蓝
+category:
+    - 袈蓝Posts
+created: 2021-04-13, 08:10:00
+description: 四川省德阳市旌阳区领导莅临考察袈蓝最新全域乡村振兴项目
+image: http://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhia1JDSbUxFL1zOoQuXdVuCHIZ6hpJibSDK8vtrbO6s31bgnyto4bNNRRg/0?wx_fmt=jpeg
+imageNameKey: rulian-political-rural-enjoyment
+permalink: /news/rulian-zhengzhi-xiangcun-fujing/
+published: 2021年04月14日 16:10
+source: https://mp.weixin.qq.com/s/hLFnhblN_L0GRu43BeKo0Q
+tags:
+    - 乡村振兴
+    - 袈蓝
+title: SYN NEWS  从旌阳走向易县——袈蓝县域乡村振兴的检阅
+updated: 2025-03-26, 06:29:13
+---
+
+2021年4月11日，四川省德阳市旌阳区的领导一行访问了河北保定易县的袈蓝最新全域乡村振兴项目。袈蓝已成功服务旌阳区实施乡村振兴规划，并取得了显著成果。旌阳区领导近期也前往易水湖国家城乡融合发展试验区先导区进行考察指导。袈蓝将继续积极推动乡村振兴和城乡融合发展。
+
+<!--more-->
+
+- 2021年4月11日，旌阳区领导访问河北保定易县袈蓝的最新全域乡村振兴项目。
+- 旌阳区与袈蓝的合作始于2018年。
+- 旌阳区的全域乡村振兴项目包括高槐村和红光村。
+- 项目帮助当地实现了村级集体经济的大发展与突破。
+- 旌阳区领导近期考察了易水湖国家城乡融合发展试验区先导区项目。
+- 袈蓝将继续推动乡村振兴和城乡融合发展。
+
+---
+
+原创 袈蓝 _2021年04月14日 16:10_
+
+SYN
+
+资讯
+
+NEWS
+
+2021年4月13日
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaEM7QI18vICavUoBxXzjpmOX5WhLFpDM6Yqvm63ibdYj8UxQjob7vYibA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Lgmm2juITcRKaWL9SQ1SRZOkq7sCgqRfTMNkbGTAAL7AVoXeH8VGQicwrV11vp9kC6gyeiarNRXSlKBp2jjCqibqg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+2021年4月11日，四川省德阳市旌阳区委副书记、区长谢斌，区政协主席谢坤，区委副书记吴健，区委常委袁敏等一行27人，抵达河北保定易县，参观考察袈蓝最新全域乡村振兴项目——易水湖国家城乡融合发展试验区先导区。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiarWHTExYUMquP6oicz3zI9kN1mYemQWLr7cribEa56s1wB2NYcCBepicXQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+袈蓝与旌阳区结缘于2018年，袈蓝以打造“国家城乡融合发展试验区”“成渝地区双城经济圈乡村振兴样板区”为目标，服务旌阳区开展全域乡村振兴规划，协助政府构建“全域规划、全域推进、全域服务”的体系。通过策规划及运营，高度统筹、突出重点、科学实施，以全程陪伴共创共建的方式为当地乡村建设精细化和乡村振兴项目建成后的可持续健康发展保驾护航，袈蓝切实推动当地实现了以高槐村为引擎，以红光村为引领，点、线、面发展，推进乡村振兴和新型城镇化“双轮驱动”，促进城乡经济循环，充分挖掘乡村消费投资潜力，释放乡村巨量潜能。
+
+[![图片](https://mmbiz.qpic.cn/mmbiz_png/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaWTBGJbNtbH7Tf8uXUcNGu84kmwUvAqjztCBpvFKrBR8P9aykejApXw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzIyNTgxNTM4OQ==&mid=2247499535&idx=1&sn=82dbe76fbd0b591c27b080bcedf7714a&chksm=e87b413ddf0cc82b5cbd8809d9d60a5d057a3b7ea9110c2cdefdb29c980c332e8313a40b2f35&scene=21#wechat_redirect)
+
+点击图片，查看袈蓝项目汇总·高槐项目
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaiauuoicMicH5icChzsib3zxtZaqrtTYSTIZXoSy7oZKwlCbThAvzMrjW3wA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+旌阳区青少年创客教育基地
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhia0Fg1kTbcHia7BnKtzaLmbnrI8lrreR9uib9fZGRJVHn6lSeZiaNhW6qcA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+田野秀场
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiajSq50WI1N0Rtvb1ZT7ib2XOEyKicGSIKZUgphg8thvrH41szsYBuUQOw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+咖啡故事馆
+
+[![图片](https://mmbiz.qpic.cn/mmbiz_png/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiabhevzdsOlic4gYFVSyYVa6eCSMXOs9Z9mEdhNJicb0jKvQoiaGIFFlZVQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzIyNTgxNTM4OQ==&mid=2247487231&idx=1&sn=c9884953f9cdec013abb6be26f35bd96&chksm=e878b0cddf0f39dbcce4c88f1018da02666738247ad491594cf35903172bd5977bd0cf198269&scene=21#wechat_redirect)
+
+点击图片，查看红光项目
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhiam9CedpOq3YRZVmZ3TuzwFLEs4Yd5YeJ1JeDMVwHXRvt6ufXiatAsJQA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+红光村入口
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaLwIE5wkyj8iaLQicRlHqGWZZUEbicphZwZhR3AozHWoRiaqkbKjs7DTfbg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+景观小广场
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiasGzOMgQL8ONDqabPTdibb3LD8wNCr6s533OLqJ4nIMWnVwZI4RAUcyw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+袈蓝咖啡
+
+旌阳区全域乡村振兴项目取得了耀眼的成绩，实现了村级集体经济大发展与大突破，让原住民与新农人能够“住下来，干起来，有未来”。袈蓝由此获得了合作伙伴旌阳区领导的高度赞扬与认可。得知近期袈蓝最新全域乡村振兴规划项目即将精彩呈现，旌阳区领导不辞辛劳，特地赶往河北易县项目考察及指导袈蓝工作。
+
+在易水湖国家城乡融合发展试验区 先导区 项目中， 袈蓝 立足河北易县综合发展，以新型城镇化为背景，乡村振兴为抓手，县域经济为根本，统筹开展易县全域乡村振兴规划。这也是继旌阳区之后， 袈蓝 在 全域乡村振兴规划 进行深耕的 第二个 重要阵地。在此项目中，田岗知行村为易县“国家城乡融合发展试验区”的实践交上第一份答卷。
+
+[![图片](https://mmbiz.qpic.cn/mmbiz_png/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaJnmgdulrlWbNT3hkJL6ibibxusTLEfibIwSCRWeia0GchyvaKSYv1icEM2Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzIyNTgxNTM4OQ==&mid=2247488100&idx=1&sn=577cf00d596c23e24c9204b304d208e3&chksm=e878ac56df0f2540bc25fae36dd16b4d2cdcc54751854a88cae63a1c3778436e536b2db9973d&scene=21#wechat_redirect)
+
+点击图片，查看易水湖项目
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhia0TdzF9Iic4ytmoXYAQcZOpoxXnNlFUVRpxVfVJtNsxnmJ63sH2d58pQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaeRs8jhfk1CZhpWCAoRUfNOg6qUlPLlq1ZQIYJrkDuiazUdRWVaFLZ8Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+田野大讲堂
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaOnpeuQpgPpCmQ28WSqcgyNnHQfgh7rROiar7r6YTjm9VclGfn0ULXUQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhiagj39cN1Qy7jhLTG513h8cIkLNf8Zia7QnmhiahbTabvZPQXmjgA6bQvA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+一座农桥
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhia1gvHCNrEHuic8h7y1IslpsbuUUYrgddHVILSN0WxK9kuJFTAC7tibuwg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+乡村客厅
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiavCxmIskoycL0dc1yjeP7syCPXBeJDLYKjbm8MJ6RGmzibcoESWkWBJg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+艺术中心
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaJic2Jy8VoXiaciafVxFBNApCLsibpELIp3icX1v5jODmoy3gjOkbmGia4Ayw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+农夫市集
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2Bhiahv5YffmOhEDiclPicVVTTlcXHddvawaC3NC4Czz0Lsl2hO3M0J4YX0uw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiaRRiahkOZq0XRaOcO7EdS5PCbBGXnZ1Riarfu1fOYbqPq77mspJH6Ea3g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Lgmm2juITcSWtKouxuVJKibCabBmE2BhiapcIove4niawt4Z6iaWxSRUBibDMLfDsZ2VYelGzlbpqqFOsO0pUdYEYibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+装置艺术作品《草帽歌》张哲溢
+
+参观考察后，旌阳区领导等一行人于4月12日莅临袈蓝集团北京总部，与袈蓝集团创始人邹迎晞等人进行交流，共同探讨乡村振兴等话题。
+
+本次考察莅临既是袈蓝合作伙伴旌阳区领导对袈蓝近年来努力与成果的高度认同与支持，也是对袈蓝工作的一次检阅与复盘。未来袈蓝将继续秉承“雕琢自己，成就他人”的价值观，深耕“做好土壤”的方法论，在城乡融合与推动全域乡村振兴的道路上，砥砺前行，持续迭代。
