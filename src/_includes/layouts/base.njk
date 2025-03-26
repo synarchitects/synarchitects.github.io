@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{{ title or metadata.title }}</title>
+        <meta name="description" content="{{ description or metadata.description }}">
+        <link rel="stylesheet" href="/style.out.css"/>
+        <link rel="icon" href="/images/syn-logo.svg" type="image/svg+xml">
+        <meta name="generator" content="{{ eleventy.generator }}">
+    </head>
+    <body class="flex flex-col min-h-screen antialiased bg-synarchi-950">
+
+        {% include "layouts/header.njk" %}
+  
+        <main class="px-4 grow">
+            <div class="max-w-4xl mx-auto mb-16 sm:mb-24 bg-">
+                {{ content | safe }}
+            </div>
+        </main>
+
+        {% include "layouts/footer.njk" %}
+
+    </body>
+</html>

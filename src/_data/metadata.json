@@ -1,0 +1,43 @@
+{
+    "type": "Config",
+    "title": "三尺集",
+    "url": "https://sanchiji.com/",
+    "description": "举头三尺有神明",
+    "navLinks": [
+        {
+            "label": "首页",
+            "url": "/"
+        },
+        {
+            "label": "袈蓝",
+            "url": "/about"
+        },
+        {
+            "label": "理念",
+            "url": "/linian"
+        },
+        {
+            "label": "案例",
+            "url": "/cases"
+        },
+        {
+            "label": "动态",
+            "url": "/news"
+        },
+        {
+            "label": "联系",
+            "url": "/contact"
+        }
+    ],
+    "hero": {
+        "type": "Hero",
+        "title": "设计，以解决问题为导向",
+        "text": "I’m a developer and UX/UI designer based in the U.S. with extensive experience in digital consulting. Passionate about minimal and brutalist design, I draw inspirationrom nature, art, and a good cup of coffee.\n\n[Learn more](https://docs.netlify.com/frameworks/eleventy/)\n",
+        "image": {
+            "src": "/images/hero-1.jpg",
+            "alt": "Alt text"
+        }
+    },
+
+    "copyrightText": "© 2025 袈蓝 Syn-Architects All rights reserved."
+}
