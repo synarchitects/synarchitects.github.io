@@ -29,11 +29,6 @@ export default async function (eleventyConfig) {
         './src/content/images/syn-logo.svg': '/images/syn-logo.svg',
     });
 
-    // 添加cms
-    eleventyConfig.addPassthroughCopy({
-        './src/admin/config.yml': './admin/config.yml',
-    });
-
     // Run Eleventy when these files change:
     // https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
