@@ -26,7 +26,7 @@ export default async function (eleventyConfig) {
 
     // Copy the `favicon` icon to the output folder
     eleventyConfig.addPassthroughCopy({
-        './src/content/images/syn-logo.svg': '/images/syn-logo.svg',
+        './src/content/images/': '/images/',
     });
 
     // Run Eleventy when these files change:

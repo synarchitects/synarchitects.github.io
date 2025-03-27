@@ -1,8 +1,8 @@
 {
     "type": "Config",
-    "title": "三尺集",
+    "title": "袈蓝集团",
     "url": "https://sanchiji.com/",
-    "description": "举头三尺有神明",
+    "description": "雕琢自己、成就他人",
     "navLinks": [
         {
             "label": "首页",
@@ -21,18 +21,22 @@
             "url": "/cases"
         },
         {
+            "label": "获奖",
+            "url": "/awards"
+        },
+        {
             "label": "动态",
             "url": "/news"
         },
         {
             "label": "联系",
-            "url": "/contact"
+            "url": "/about/contact"
         }
     ],
     "hero": {
         "type": "Hero",
         "title": "设计，以解决问题为导向",
-        "text": "I’m a developer and UX/UI designer based in the U.S. with extensive experience in digital consulting. Passionate about minimal and brutalist design, I draw inspirationrom nature, art, and a good cup of coffee.\n\n[Learn more](https://docs.netlify.com/frameworks/eleventy/)\n",
+        "text": "我们是一家专注于建筑设计的公司，我们的设计以解决问题为导向，以人为本，以创新为核心。",
         "image": {
             "src": "/images/hero-1.jpg",
             "alt": "Alt text"

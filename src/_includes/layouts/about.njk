@@ -11,7 +11,6 @@ layout: layouts/base.njk
     <div class="px-4 pt-12 pb-16 sm:pt-16 sm:pb-24">
         <header class="max-w-2xl mx-auto mb-8 text-center">
             <h1 class="mb-2 text-3xl font-bold uppercase sm:text-4xl text-slate-800" data-sb-field-path="title">{{ title }}</h1>
-            <time class="text-sm text-slate-400" datetime="{{ page.date | htmlDateString }}" data-sb-field-path="date">{{ page.date | readableDate }}</time>
         </header>
         <div class="max-w-2xl mx-auto prose prose-slate" data-sb-field-path="markdown_content">
             {{ content | safe }}
