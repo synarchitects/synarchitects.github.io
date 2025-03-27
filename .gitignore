@@ -24,3 +24,7 @@ pnpm-debug.log*
 # Local Netlify folder
 .netlify
 *.code-workspace
+
+# do not git RSA Key
+*.pem
+id_rsa*
