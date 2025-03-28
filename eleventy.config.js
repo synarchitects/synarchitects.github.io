@@ -54,6 +54,12 @@ export default async function (eleventyConfig) {
 
         // widths: ["auto"],
 
+        // 指定图片处理后的输出目录，减少网络部署时候的压力
+        outputDir: '_site/img/',
+
+        // 指定图片在生成的html中的引用路径都在img里
+        urlPath: '/img/',
+
         defaultAttributes: {
             // e.g. <img loading decoding> assigned on the HTML tag will override these values.
             loading: 'lazy',
