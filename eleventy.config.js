@@ -60,6 +60,13 @@ export default async function (eleventyConfig) {
         // 指定图片在生成的html中的引用路径都在img里
         urlPath: '/img/',
 
+        // 缓存选项
+        cacheOptions: {
+            duration: '*', // 缓存不过期
+            directory: '.cache', // 缓存目录
+            removeUrlQueryParams: false, // 不删除URL查询参数
+        },
+
         defaultAttributes: {
             // e.g. <img loading decoding> assigned on the HTML tag will override these values.
             loading: 'lazy',
