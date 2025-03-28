@@ -1,5 +1,5 @@
 # Netlify Visul Editor (Stackbit)
-#.cache
+.cache
 .stackbit/cache
 
 # build output
