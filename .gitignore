@@ -3,7 +3,7 @@
 .stackbit/cache
 
 # build output
-#_site/
+_site/
 
 # dependencies
 node_modules/
