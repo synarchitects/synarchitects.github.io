@@ -31,9 +31,9 @@ jobs:
               uses: actions/cache@v3
               with:
                   path: ./.cache
-                  key: eleventy-fetch-${{ hashFiles('**/package.json') }}
+                  key: ${{ runner.os }}-eleventy-fetch-${{ hashFiles('**/package-lock.json') }}
                   restore-keys: |
-                      eleventy-fetch-
+                      ${{ runner.os }}-eleventy-fetch-
 
             - name: Debug cache info
               run: |
@@ -44,7 +44,7 @@ jobs:
               uses: actions/cache@v3
               with:
                   path: _site/img
-                  key: eleventy-fetch-img-cache-${{ hashFiles('**/package.json') }}
+                  key: ${{ runner.os }}-eleventy-fetch-img-${{ hashFiles('**/package-lock.json') }}
 
             - run: npm install
             - run: npm run build
