@@ -1,9 +1,0 @@
-{
-    "html.suggest.html5": true,
-    "emmet.includeLanguages": {
-        "njk": "html",
-        "nunjucks": "html"
-    },
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
-}
