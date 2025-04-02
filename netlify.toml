@@ -1,23 +1,9 @@
 [build]
 	publish = "_site"
-	command = "npm run build"
+	command = "npm ci && npm run build"
 
 [build.environment]
-  # 启用更快的Eleventy增量构建
-  ELEVENTY_RUN_MODE = "build"
-  ELEVENTY_CACHE_DIR = ".cache"
-
-[[plugins]]
-package = "netlify-plugin-cache"
-
-  [plugins.inputs]
-  paths = [
-    "_site/img", # Eleventy Image Disk Cache
-    ".cache", # Eleventy和图片缓存
-    "node_modules/.cache" # 其他构建工具缓存
-  ]
-
-# 优化构建性能
-[context.production.environment]
+  NODE_VERSION = "18"
   NODE_ENV = "production"
-  ELEVENTY_CACHE = "true"
+  # 确保tailwindcss可执行文件可用
+  PATH = "/opt/buildhome/.nvm/versions/node/v18*/bin:/opt/buildhome/.yarn/bin:/opt/buildhome/.config/yarn/global/node_modules/.bin:/opt/buildhome/.npm-global/bin:/opt/buildhome/.npm/bin:/opt/buildhome/.rvm/gems/ruby-2.7.2/bin:/opt/buildhome/.rvm/gems/ruby-2.7.2@global/bin:/opt/buildhome/.rvm/rubies/ruby-2.7.2/bin:/usr/local/bin:/usr/bin:/bin:/opt/buildhome/.rvm/bin"
