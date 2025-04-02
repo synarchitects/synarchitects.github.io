@@ -32,6 +32,13 @@ jobs:
               with:
                   path: ./.cache
                   key: eleventy-fetch-${{ hashFiles('**/package.json') }}
+                  restore-keys: |
+                      eleventy-fetch-
+
+            - name: Debug cache info
+              run: |
+                  echo "Cache key: eleventy-fetch-${{ hashFiles('**/package.json') }}"
+                  ls -la .cache || echo "No .cache directory"
 
             - name: Persist Eleventy img cache
               uses: actions/cache@v3
@@ -41,6 +48,9 @@ jobs:
 
             - run: npm install
             - run: npm run build
+
+            - name: Verify cache
+              run: ls -la .cache || echo "No .cache directory after build"
 
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
