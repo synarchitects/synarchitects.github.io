@@ -1,10 +1,10 @@
 [build]
 	publish = "_site"
-	command = "npm run build"
+	command = "npm install tailwindcss && npm run build"
 
 [build.environment]
   NODE_VERSION = "18"
-  NODE_ENV = "production"
+  # 临时移除NODE_ENV设置确保devDependencies安装
   ELEVENTY_CACHE_DIR = ".cache"
 
 [[plugins]]
@@ -13,5 +13,6 @@ package = "netlify-plugin-cache"
   [plugins.inputs]
   paths = [
     ".cache",
+    "node_modules",
     "node_modules/.cache"
   ]
