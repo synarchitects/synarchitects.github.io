@@ -1,9 +1,7 @@
 [build]
 	publish = "_site"
-	command = "npm ci && npm run build"
+	command = "npm run build"
 
 [build.environment]
   NODE_VERSION = "18"
   NODE_ENV = "production"
-  # 确保tailwindcss可执行文件可用
-  PATH = "/opt/buildhome/.nvm/versions/node/v18*/bin:/opt/buildhome/.yarn/bin:/opt/buildhome/.config/yarn/global/node_modules/.bin:/opt/buildhome/.npm-global/bin:/opt/buildhome/.npm/bin:/opt/buildhome/.rvm/gems/ruby-2.7.2/bin:/opt/buildhome/.rvm/gems/ruby-2.7.2@global/bin:/opt/buildhome/.rvm/rubies/ruby-2.7.2/bin:/usr/local/bin:/usr/bin:/bin:/opt/buildhome/.rvm/bin"
