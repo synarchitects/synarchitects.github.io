@@ -16,8 +16,6 @@ package = "netlify-plugin-cache"
     ".cache", # Eleventy和图片缓存
     "node_modules/.cache" # 其他构建工具缓存
   ]
-  # 更积极的缓存策略
-  ttl = 86400 # 1天缓存有效期
 
 # 优化构建性能
 [context.production.environment]
