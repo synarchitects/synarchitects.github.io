@@ -34,10 +34,18 @@ export default async function (eleventyConfig) {
 
     eleventyConfig.addWatchTarget('./src/css/');
 
+    // 增量编译优化配置
+    eleventyConfig.setUseGitIgnore(false); // 确保.gitignore不影响文件监听
+    eleventyConfig.setWatchThrottleWaitTime(500); // 设置更短的防抖时间
+
     // Watch content images for the image pipeline.
     eleventyConfig.addWatchTarget('content/**/*.{svg,webp,png,jpeg}');
 
-    // Official plugins
+    // 明确添加需要监听的模板文件
+    eleventyConfig.addWatchTarget('src/_includes/**/*.{njk,liquid,html}');
+    eleventyConfig.addWatchTarget('src/_data/**/*.js');
+
+    // 官方插件
     eleventyConfig.addPlugin(pluginSyntaxHighlight, {
         preAttributes: { tabindex: 0 },
     });
@@ -60,17 +68,28 @@ export default async function (eleventyConfig) {
         // 指定图片在生成的html中的引用路径都在img里
         urlPath: '/img/',
 
-        // 缓存选项
+        // 缓存选项 - 增强增量编译
         cacheOptions: {
-            duration: '*', // 缓存不过期
-            directory: '.cache', // 缓存目录
-            removeUrlQueryParams: false, // 不删除URL查询参数
+            duration: '1d', // 缓存1天
+            directory: '.cache',
+            removeUrlQueryParams: false,
+            // 启用更细粒度的缓存验证
+            validate: async (entry) => {
+                return !(await entry.isStale());
+            },
         },
 
         defaultAttributes: {
             // e.g. <img loading decoding> assigned on the HTML tag will override these values.
             loading: 'lazy',
             decoding: 'async',
+        },
+
+        // 添加错误处理，跳过失败的图片
+        errorHandler: (err, src, options) => {
+            console.error(`图片处理失败: ${src}`, err.message);
+            // 返回null跳过此图片
+            return null;
         },
     });
 
