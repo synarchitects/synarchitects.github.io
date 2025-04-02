@@ -12,7 +12,8 @@ package = "netlify-plugin-cache"
 
   [plugins.inputs]
   paths = [
-    ".cache",
-    "node_modules",
-    "node_modules/.cache"
+    ".cache",       # Eleventy缓存
+    "_site/img",    # 处理后的图片
+    "node_modules", # 依赖
+    "node_modules/.cache" # 构建工具缓存
   ]
