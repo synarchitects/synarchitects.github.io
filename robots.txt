@@ -1,2 +1,2 @@
-Sitemap: https://bau-jl.com//sitemap.xml
+Sitemap: https://bau-jl.com/sitemap.xml
 User-agent: *
