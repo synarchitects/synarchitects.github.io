@@ -1,0 +1,2 @@
+Sitemap: https://sanchiji.com//sitemap.xml
+User-agent: *
