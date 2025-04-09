@@ -57,11 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 {{ content | safe }}
             </div>
         </main>
-        {% if metadata.copyrightText %}
-            <footer class="px-4 pb-16 sm:pb-24">
-                <div class="max-w-4xl mx-auto prose-sm prose text-center prose-slate prose-invert" data-sb-field-path={{ [siteConfigFilePath, ":copyrightText"] | join  }}>{{ metadata.copyrightText | markdown | safe }}</div>
-            </footer>
-        {% endif %}
+        {% include "components/footer.njk" %}
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJ9VK8P4"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

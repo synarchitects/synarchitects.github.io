@@ -1,0 +1,44 @@
+{% if metadata.copyrightText %}
+    <footer class="bg-slate-800">
+        <div class="text-xs max-w-4xl mx-auto px-4 py-16 sm:py-24 grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- 公司信息 -->
+            <div class="space-y-4">
+             <h3 class="font-semibold text-white mb-4">袈蓝集团</h3>
+                <img src="/images/syn-logo-white.svg" alt="袈蓝集团" class="w-16 h-16 sm:w-20 sm:h-20">
+                <div class="prose-sm prose text-xs text-slate-300 prose-invert">
+                    <p>袈蓝——城乡融合与乡村振兴系统解决方案引领者</p>
+                    {{ metadata.copyrightText | markdown | safe }}
+                </div>
+            </div>
+
+            <!-- 网站栏目 -->
+            <div class="md:justify-self-center">
+                <h3 class="font-semibold text-white mb-4">网站栏目</h3>
+                <ul class="space-y-2">
+                    {%- for entry in metadata.navLinks %}
+                    <li>
+                        <a href="{{ entry.url }}" class="text-slate-300 hover:text-white transition">
+                            {{ entry.label }}
+                        </a>
+                    </li>
+                    {%- endfor %}
+                </ul>
+            </div>
+
+            <!-- 社交媒体 -->
+            <div class="md:justify-self-end">
+                <h3 class="font-semibold text-white mb-4">关注袈蓝新媒体</h3>
+                <div class="flex gap-6">
+                    <div class="text-center">
+                        <img src="/images/qr-vlog-wx.png" alt="微信公众号" class="w-24 h-24 mb-2">
+                        <p class="text-slate-300">微信：袈蓝邹迎晞</p>
+                    </div>
+                    <div class="text-center">
+                        <img src="/images/qr-vlog-dy.png" alt="抖音" class="w-24 h-24 mb-2">
+                        <p class="text-slate-300">抖音：袈蓝邹迎晞</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+{% endif %}

@@ -1,7 +1,7 @@
 ---
 title: 邹迎晞
 image: '/images/syn-archi-01.jpg'
-permalink: /people/zouyingxi/
+permalink: /people/zou-yingxi/
 ---
 
 袈蓝集团创始人**邹迎晞**，毕业于清华大学美术学院，后于德国柏林艺术大学建筑学院深造，建筑学硕士毕业，回国创业至今已超过20年。
@@ -12,7 +12,7 @@ permalink: /people/zouyingxi/
 
 同时，为了具备系统解决问题的能力，袈蓝开始了除建筑设计外的复合能力延展。
 
-![邹迎晞](/images/zou-ying-xi.png)
+![邹迎晞](/images/zou-yingxi.png)
 
 ### 行业认证
 
