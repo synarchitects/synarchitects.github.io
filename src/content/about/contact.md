@@ -47,9 +47,3 @@ permalink: /about/contact/
 - Fax:+49 (0)30 81492976
 - Mobil: +49 (0)151 27569270
 - mail@synarchitects.com
-
-## ▍袈蓝新媒体
-
-- 微信公众号: jialan-syn
-- 微信视频号:
-- 抖音:
