@@ -20,18 +20,17 @@
     }
 }
 
+/* 定义袈蓝品牌色，基于#10376F，by jamflying */
 @theme {
-    --color-synarchi: {
-        50: oklch(95% 0.05 235deg);
-        100: oklch(90% 0.08 232deg);
-        200: oklch(85% 0.12 228deg);
-        300: oklch(78% 0.18 225deg);
-        400: oklch(70% 0.23 220deg);
-        500: oklch(65% 0.25 215deg);
-        600: oklch(58% 0.28 210deg);
-        700: oklch(53% 0.3 205deg);
-        800: oklch(45% 0.32 200deg);
-        900: oklch(38% 0.3 195deg);
-        950: oklch(30% 0.25 190deg);
-    };
+    --color-synarchi-50: #edf9ff;
+    --color-synarchi-100: #d6f0ff;
+    --color-synarchi-200: #b5e7ff;
+    --color-synarchi-300: #82dbff;
+    --color-synarchi-400: #48c4ff;
+    --color-synarchi-500: #1ea4ff;
+    --color-synarchi-600: #0684ff;
+    --color-synarchi-700: #006cf5;
+    --color-synarchi-800: #0757c6;
+    --color-synarchi-900: #0d4c9b;
+    --color-synarchi-950: #10376f;
 }

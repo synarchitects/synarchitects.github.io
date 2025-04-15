@@ -39,6 +39,7 @@
     --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
+    --color-synarchi-950: #10376f;
   }
 }
 @layer base {
@@ -338,6 +339,9 @@
   }
   .bg-slate-800 {
     background-color: var(--color-slate-800);
+  }
+  .bg-synarchi-950 {
+    background-color: var(--color-synarchi-950);
   }
   .bg-white {
     background-color: var(--color-white);
