@@ -18,6 +18,17 @@
     ::file-selector-button {
         border-color: var(--color-gray-200, currentcolor);
     }
+    .prose p {
+        margin-top: 2rem; /* 根据需求调整数值 */
+        margin-bottom: 2rem;
+        line-height: 2; /* 调整行高 */
+    }
+
+    .prose {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+    }
 }
 
 /* 定义袈蓝品牌色，基于#10376F，by jamflying */
